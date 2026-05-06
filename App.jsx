@@ -5,9 +5,9 @@ import Sidebar from './components/Sidebar';
 
 function App() {
     const posts = [
-        { id: 1, title: "First Post", excerpt: "This is my first post...", author: "Alice", date: "Jan 15" },
-        { id: 2, title: "Second Post", excerpt: "Learning React is fun...", author: "Bob", date: "Jan 14" },
-        { id: 3, title: "Third Post", excerpt: "Components are powerful...", author: "Charlie", date: "Jan 13" }
+        { id: 1, title: "First Post", excerpt: "This is my first post...", author: "Gideon", date: "april 15" },
+        { id: 2, title: "Second Post", excerpt: "Learning React is fun...", author: "Gideon", date: "april 14" },
+        { id: 3, title: "Third Post", excerpt: "Components are powerful...", author: "Gideon", date: "april 13" }
     ];
 
     return (
